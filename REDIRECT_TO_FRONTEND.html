@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to Frontend...</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+        .redirect-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 20px;
+            transition: transform 0.3s ease;
+        }
+        .redirect-button:hover {
+            transform: translateY(-2px);
+        }
+        .api-note {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+    <script>
+        // Auto-redirect after 3 seconds
+        setTimeout(function() {
+            window.location.href = 'http://localhost:3001';
+        }, 3000);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 Adversarial Knowledge Cartographer</h1>
+        <h2>Frontend Application</h2>
+        
+        <div class="api-note">
+            <h3>⚠️ You're looking at the API Documentation</h3>
+            <p>The page you were viewing is the <strong>backend API documentation</strong> (Swagger UI).</p>
+            <p>The <strong>frontend application</strong> with visualization buttons is on a different port.</p>
+        </div>
+        
+        <p><strong>Redirecting automatically in 3 seconds...</strong></p>
+        <p>Or click the button below:</p>
+        
+        <a href="http://localhost:3001" class="redirect-button">
+            🚀 Go to Frontend Application
+        </a>
+        
+        <div style="margin-top: 30px;">
+            <h3>📍 Correct URLs:</h3>
+            <p>✅ <strong>Frontend App:</strong> <a href="http://localhost:3001" style="color: #4CAF50;">http://localhost:3001</a></p>
+            <p>📚 <strong>API Docs:</strong> <a href="http://localhost:8000" style="color: #FF9500;">http://localhost:8000</a></p>
+        </div>
+        
+        <div style="margin-top: 30px;">
+            <h3>🎯 What You'll Find at the Frontend:</h3>
+            <ul style="text-align: left; display: inline-block;">
+                <li>Research topic input field</li>
+                <li>Purple "🎯 Load Demo Data" button</li>
+                <li>Visualization mode buttons (2D, 3D, Analytics)</li>
+                <li>Interactive knowledge graph visualization</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+================================================================================
+  ADVERSARIAL KNOWLEDGE CARTOGRAPHER - QUICK START
+================================================================================
+
+✅ YOU'RE ALL SET! Your API keys are configured and ready.
+
+🚀 START THE SERVER:
+   
+   start_server.bat
+
+   (Or manually: python -m uvicorn api.app:app --reload --port 8000)
+
+🌐 OPEN IN BROWSER:
+
+   http://localhost:8000/docs
+
+🧪 TEST WITH A QUERY:
+
+   1. Click "POST /api/research"
+   2. Click "Try it out"
+   3. Enter: "Is coffee good for health?"
+   4. Click "Execute"
+   5. Watch it work!
+
+📊 WHAT YOU GET:
+
+   - Knowledge graph with entities and relationships
+   - Conflict detection (contradictory claims)
+   - Credibility scoring
+   - Synthesis report
+
+💡 EXAMPLE TOPICS TO TRY:
+
+   - "Is coffee good or bad for health?"
+   - "Nuclear energy safety"
+   - "Remote work effectiveness"
+   - "Cryptocurrency as investment"
+
+🎨 OPTIONAL - START FRONTEND:
+
+   cd frontend
+   npm install
+   npm start
+
+   Opens at: http://localhost:3000
+
+📖 MORE INFO:
+
+   - WHATS_NEXT.md - Complete guide
+   - README.md - Full documentation
+   - API_COMPARISON.md - API options
+
+================================================================================
+  READY TO EXPLORE CONFLICTING VIEWPOINTS!
+================================================================================

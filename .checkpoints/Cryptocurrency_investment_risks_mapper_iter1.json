@@ -1,0 +1,514 @@
+{
+  "topic": "Cryptocurrency investment risks",
+  "iteration": 1,
+  "sources": [
+    {
+      "url": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+      "title": "Cryptocurrency Explained With Pros and Cons for Investment",
+      "content": "Table of Contents Expand Table of Contents What Is Cryptocurrency? Understanding Cryptocurrency Types How to Buy Cryptocurrency Is Cryptocurrency Legal? Cryptocurrency Safety Advantages and Disadvantages FAQs The Bottom Line Cryptocurrency Explained With Pros and Cons for Investment Learn what you need to know before you invest in a virtual currency By The Investopedia Team Full Bio Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed. Learn about our editorial policies Updated December 15, 2025 Reviewed by Cierra Murry Reviewed by Cierra Murry Full Bio Cierra Murry is an expert in banking, credit cards, investing, loans, mortgages, and real estate. She is a banking consultant, loan signing agent, and arbitrator with more than 15 years of experience in financial analysis, underwriting, loan documentation, loan review, banking compliance, and credit risk management. Learn about our Financial Review Board Fact checked by Vikki Velasquez Fact checked by Vikki Velasquez Full Bio Vikki Velasquez is a researcher and writer who has managed, coordinated, and directed various community and nonprofit organizations. She has conducted in-depth research on social and economic issues and has also revised and edited educational materials for the Greater Richmond area. Learn about our editorial policies Definition Cryptocurrencies are digital assets created using blockchain technology. What Is Cryptocurrency? A cryptocurrency is a digital or virtual currency secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Cryptocurrencies exist on decentralized networks that utilize blockchain technology\u2014a distributed ledger secured by a network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central or governing authority. However, laws and policies set by the U.S. Securities and Exchange Commission (SEC) have placed policies and standards that must be abided by institutions, such as crypto exchanges and online brokerage firms that offer cryptocurrency. Key Takeaways A cryptocurrency is a form of digital asset based on a blockchain network that is distributed across a large number of computers. This decentralized structure allows them to exist outside the control of governments and central authorities. Government agencies such as the SEC routinely regulate cryptocurrency, setting laws and regulations for crypto exchanges and online brokerage firms to follow. Some experts believe blockchain and related technologies will disrupt many industries, including finance and law. The advantages of cryptocurrencies include cheaper and faster money transfers, as well as the possibility of capital gains. The disadvantages of cryptocurrencies include their price volatility, high energy consumption for mining activities, and use in criminal activities. Investopedia / Tara Anand Understanding Cryptocurrency Cryptocurrencies are digital currencies underpinned by cryptographic systems. They enable secure online payments without the use of third-party intermediaries. \"Crypto\" refers to the various encryption algorithms and cryptographic techniques that safeguard these entries, such as elliptic curve encryption, public-private key pairs, and hashing functions. Blockchain technology is central to the appeal and functionality of Bitcoin and other cryptocurrencies. As its name indicates, a blockchain is essentially a set of connected blocks of information on an online ledger. Each block contains a set of transactions that have been verified by validators on a network. This network-wide validation makes it nearly impossible to forge transactions. The contents of the online ledger must be agreed upon by a network of individual nodes, or computers that maintain the ledger. Experts say that blockchain technology can serve multiple industries, supply chains, and processes, such as online voting and crowdfunding. For example, financial institutions such as JPMorgan Chase & Co. (JPM) have developed and utilized blockchain technology to reduce transaction costs by streamlining payment processing. Types of Cryptocurrency Many cryptocurrencies were created to facilitate work done on the blockchain they are built on. For example, Ethereum's native digital coin, Ether (ETH), was designed to be used as payment for validating transactions and opening blocks. When the blockchain transitioned to proof-of-stake in September 2022, Ether inherited an additional duty as the blockchain's staking mechanism. The XRP Ledger's native cryptocurrency, XRP, is designed for financial institutions to facilitate transfers between different geographies. Because so many cryptocurrencies are on the market, it's important to understand the different types. Knowing whether the coin you're looking at has a purpose can help you decide whether it is worth investing in\u2014a cryptocurrency with a purpose is likely to be less risky than one that doesn't have a use. Most of the time, when you hear about cryptocurrency types, you hear the coin's name. However, coin names differ from coin types. Here are some of the types you'll find, with some of the names of tokens in that category: Utility: XRP and ETH are two examples of utility tokens. They serve specific functions on their respective blockchains. Transactional: Tokens designed to be used as a payment method. Bitcoin is the most well-known of these. Governance: These tokens represent voting or other rights on a blockchain, such as Uniswap. Platform: These tokens support decentralized applications, also known as dApps, which are built on a blockchain, such as Solana. Security tokens (asset-backed tokens): Tokens representing ownership of an asset, such as a stock that has been tokenized (value transferred to the blockchain). MS Token is an example of a securitized token. If you can find one of these for sale, you can gain partial ownership of the Millennium Sapphire. If you find a cryptocurrency that doesn't fall into one of these categories, you've likely discovered a new category or something that needs further investigation to ensure its legitimacy. How to Buy Cryptocurrency If you want to use cryptocurrency to buy products and services, you will need to visit a cryptocurrency exchange. These are businesses that allow you to buy or sell cryptocurrencies from other users at the current market price, similar to a stock. After buying the coins, you will need to transfer them to a crypto wallet or use a third-party service like Coinbase to store your coins. If you only want to buy cryptocurrency as an investment, you may be able to do so through your online brokerage. For example, Robinhood, which we found to be the best broker for cryptocurrency trading, allows users to invest in Bitcoin and other cryptocurrencies. In addition, several crypto ETFs, such as Spot Bitcoin and Ethereum ETFs, provide exposure to the crypto asset class without requiring investors to maintain their wallets. For instance, investors may choose to hold Bitcoin ETF shares. The SEC has also approved the listing and trading of Ether spot shares. Is Cryptocurrency Legal? Fiat currencies derive their authority from the government or monetary authorities. For example, the U.S. dollar is recognized and issued by the government as the official currency of the United States and is \"legal tender.\" However, cryptocurrencies are not issued by any government entity. Therefore, it has been difficult to make a case for their legal status in different financial jurisdictions throughout the world. It doesn't help matters that cryptocurrencies have primarily functioned outside most existing financial infrastructure. Best practices for those interested in cryptocurrency are to check the national and local laws of your country of residence. While it may be legal in one jurisdiction, it may not be legal in another. In the US The legal status of cryptocurrencies creates implications for their use in daily transactions and trading. In June 2019, the Financial Action Task Force (FATF) recommended that wire transfers of cryptocurrencies should be subject to the requirements of its Travel Rule, which requires AML compliance. Important Although cryptocurrencies are considered a form of money, the Internal Revenue Service (IRS) treats them as financial assets or property for tax purposes. And, as with most other investments, if you reap capital gains from selling or trading cryptocurrencies, the government wants a piece of the profits. How exactly the IRS taxes digital assets\u2014either as capital gains or ordinary income\u2014depends on how long the taxpayer held the cryptocurrency and how they used it. In the United States in July 2023, courts ruled that cryptocurrencies are considered securities when purchased by institutional buyers but not by retail investors who purchase on exchanges. Enthusiasts called it a victory for crypto; however, crypto exchanges are regulated by the SEC, as are coin offerings or sales to institutional investors. So, crypto is legal in the U.S., but regulatory agencies are slowly gaining ground in the industry. As of August 2025, regulators are developing rules for cryptocurrency distribution, trading, and custody that will contribute to an eventual framework. In Asia Japan's Payment Services Act defines Bitcoin as legal property. Cryptocurrency exchanges operating in the country are required to collect information about their customers and details related to wire transfers. China has banned cryptocurrency exchanges, transactions, and mining within its borders, but has a Central Bank Digital Currency (CBDC). However, this does not mean that mining does not occur in the country. India is reported to be formulating a framework for cryptocurrencies, but until it is enacted, crypto is not yet illegal. Exchanges are free to offer cryptocurrencies. In Europe Cryptocurrencies are legal in the European Union. Derivatives and other products that use cryptocurrencies must qualify as \"financial instruments.\" In June 2023, the European Commission's Markets in Crypto-Assets (MiCA) regulation went into effect. This law sets safeguards and establishes rules for companies or vendors providing financial services using cryptocurrencies. Is Cryptocurrency a Safe Investment? Cryptocurrencies have attracted a reputation as unstable investments due to high investor losses from scams, hacks, bugs, and volatility. Although the underlying cryptography and blockchain are generally secure, the technical complexity of using and storing crypto assets can be a significant hazard to new users. In addition to the market risks associated with speculative assets, cryptocurrency investors should be aware of the following risks: User risk: Unlike traditional finance, there is no way to reverse or cancel a cryptocurrency transaction after it has already been sent. According to Ledger, a well-known crypto wallet, analysts estimate that about 11 % to 18% of bitcoins are lost for various reasons.Regulatory risks: The regulatory status of some cryptocurrencies is still unclear in many areas, with some governments seeking to regulate them as securities, currencies, or both. A sudden regulatory crackdown could make it challenging to sell cryptocurrencies or cause a market-wide price drop.Counterparty risks: Many investors and merchants rely on exchanges or other custodians to store their cryptocurrency. Theft or loss by one of these third parties could result in losing one's entire investment.Management risks: Due to the lack of coherent regulations, there are few protections against deceptive or unethical management practices. Many investors have lost large sums to management teams that failed to deliver a product.Programming risks: Many investment and lending platforms use automated smart contracts to control the movement of user deposits. An investor using one of these platforms assumes the risk that a bug or exploit in these programs could cause them to lose their investment.Market Manipulation: Market manipulation remains a substantial problem for cryptocurrency investors, with influential people, organizations, and exchanges promoting their favored tokens. Despite these risks, cryptocurrencies have experienced a significant price surge, with the total market capitalization rising to approximately $2.98 trillion (As of December 15, 2025). Despite the asset's speculative nature, some have created substantial fortunes by taking on the risk of investing in early-stage cryptocurrencies. Advantages and Disadvantages of Cryptocurrency Cryptocurrencies were introduced with the intent to revolutionize financial infrastructure. As with every revolution, however, there are tradeoffs involved. At the current stage of development for cryptocurrencies, there are many differences between the theoretical ideal of a decentralized system with cryptocurrencies and its practical implementation. Advantages Removes single points of failure Easier to transfer funds between parties Removes third parties Can be used to generate returns Remittances are streamlined Disadvantages Transactions are pseudonymous Pseudonymity allows for criminal uses Have become highly centralized Expensive to participate in some networks and earn Off-chain security issues Prices are very volatile Advantages Explained Cryptocurrencies represent a new, decentralized paradigm for money. In this system, centralized intermediaries, such as banks and monetary institutions, are not necessary to enforce trust and police transactions between two parties. Thus, a system with cryptocurrencies eliminates the possibility of a single point of failure\u2014such as a large financial institution setting off a cascade of global crises, such as the one triggered in 2008 by the failure of large investment banks in the U.S. Cryptocurrencies promise to make transferring funds directly between two parties easier without needing a trusted third party like a bank or a credit card company. Such decentralized transfers are secured by the use of public keys and private keys and different forms of incentive systems, such as proof of work or proof of stake. Because they do not use third-party intermediaries, cryptocurrency transfers between two transacting parties can be faster than standard money transfers. Flash loans in decentralized finance are an excellent example of such decentralized transfers. These loans, which are processed without requiring collateral, can be executed within seconds and are mostly used in trading. The remittance economy is testing one of cryptocurrency's most prominent use cases. Cryptocurrencies such as Bitcoin serve as intermediate currencies to streamline money transfers across borders. Thus, a fiat currency is converted into Bitcoin (or another cryptocurrency), transferred across borders, and subsequently converted back into the destination fiat currency without third-party involvement. Disadvantages Explained Though many claim crypto to be an anonymous form of transaction, cryptocurrencies are pseudonymous. They leave a digital trail that agencies like the Federal Bureau of Investigation (FBI) can follow. This opens up the possibility for governments, authorities, and others to track financial transactions. Cryptocurrencies have become a popular tool for criminals to engage in nefarious activities, including money laundering and illicit purchases. The case of Dread Pirate Roberts, who ran a marketplace to sell drugs on the dark web, is already well known. Cryptocurrencies have also become a favorite of hackers who use them for ransomware activities. In theory, cryptocurrencies are designed to be decentralized, with their wealth distributed among many parties on a blockchain. Ownership is becoming more concentrated, as witnessed by companies such as Strategy purchasing and holding them for price appreciation and investment fund managers buying them to hold in the funds they manage. One of the conceits of cryptocurrencies is that anyone can mine them using a computer with an Internet connection. However, mining popular cryptocurrencies requires considerable energy, sometimes with daily energy use for mining only exceeding that of a household. The high energy costs and the unpredictability of mining have concentrated mining among large firms seeking to profit from the activity. Though cryptocurrency blockchains are highly secure, off-chain crypto-related key storage repositories, such as exchanges and wallets, can be hacked. Many cryptocurrency exchanges and wallets have been hacked over the years, sometimes resulting in the theft of millions of dollars in coins. Cryptocurrencies traded in public markets suffer from price volatility, so investments require accurate price monitoring. For example, Bitcoin has experienced rapid surges and crashes in its value, climbing to nearly $65,000 in November 2021 before dropping to just over $20,000 a year and a half later. Bitcoin prices had roared back by mid-2024 and reached a high of more than $124,000 by October 2025. As a result of this vast range of volatility, many people consider cryptocurrencies a speculative bubble. Is Crypto a Good Investment? Crypto can be a good investment for someone who enjoys speculating and can financially tolerate losing everything invested. However, it is not a wise investment for someone seeking to grow their retirement portfolio or for placing savings into it for growth. Which Crypto Is Best to Invest In? It depends on your financial circumstances, market outlook, risk tolerance, and goals. Crypto investing is generally best suited for speculators or those who can afford to incur losses. Including cryptocurrency as part of a portfolio is something that should be discussed with a financial advisor familiar with crypto. How Does Crypto Make You Money? There are several ways cryptocurrency can make money for you. Decentralized finance applications let you loan your crypto with interest; you can stake a compatible one on a blockchain or at certain exchanges for rewards, or you can hold on to it and hope its market value increases. None of these methods is guaranteed to make money, but many people have benefited from them. The Bottom Line Cryptocurrencies are digital assets that are secured by cryptography. As a relatively new technology, they are highly speculative, and it is important to understand the risks involved before investing. The comments, opinions, and analyses expressed on Investopedia are for informational purposes online. Read our warranty and liability disclaimer for more info. Article Sources Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy. U.S. Securities and Exchange Commission. \"Crypto Task Force.\" Nakamoto, Satoshi. \"Bitcoin: A Peer-to-Peer Electronic Cash System.\" October 31, 2008, pp. 3.4- Consensys. \"Consensys Acquires Quorum Platform from J.P. Morgan.\" The Ethereum Foundation. \"The Merge.\" Ripple. \"XRP Ledger: Built for Business.\" Uniswap Labs. \"Governance.\" DappRadar. \"Top Solana Dapps.\" MSToken. \"Investing In The Millennium Sapphire STO.\" U.S. Congress. \"SEC Approves Bitcoin Exchange-Traded Products (ETPs).\" Atlantic Council. \"Cryptocurrency Regulation Tracker.\" Baker Mckenzie. \"Most Countries Have Failed to Implement Travel Rule.\" Internal Revenue Service. \"Digital Assets.\" Internal Revenue Service. \"Frequently Asked Questions on Virtual Currency Transactions.\" U.S. District Court, Southern District of New York. \u201cSecurities and Exchange Commission vs. Ripple Labs, Inc.\" U.S. Securities and Exchange Commission. \"American Leadership in the Digital Finance Revolution.\" Atlantic Council. \"Cryptocurrency Regulation Tracker.\" On Map, Select \"Japan\" and \"See more.\" Freeman Law. \"Japan and Cryptocurrency.\" Atlantic Council. \"Cryptocurrency Regulation Tracker.\" On Map, Select \"China\" and \"See more.\" Stanford University. \"Let\u2019s Start With What China\u2019s Digital Currency is Not.\" Atlantic Council. \"Cryptocurrency Regulation Tracker.\" On Map, Select \"India\" and \"See more.\" Hindustan Times. \"Supreme Court Asks Central Government Why Crypto Trading Can\u2019t Be Regulated.\" European Securities and Markets Authority. \"Markets in Crypto-Assets Regulation (MiCA).\" Ledger. \"How Many Bitcoin Are Lost? | Ledger.\" CoinMarketCap. \"Today's Cryptocurrency Prices by Market Cap.\" Ars Technica. \"Sunk: How Ross Ulbricht Ended Up in Prison for Life.\" National Public Radio. \"How Bitcoin Has Fueled Ransomware Attacks.\" Center for Strategic & International Studies. \"The ByBit Heist and the Future of U.S. Crypto Regulation.\" CoinMarketCap. \"Bitcoin To USD Chart.\" Compare Accounts Advertiser Disclosure \u00d7 The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace. Read more Cryptocurrency Partner Links Take the Next Step to Invest Advertiser Disclosure \u00d7 The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.",
+      "domain": "investopedia.com",
+      "retrieved_at": "2025-12-16 10:11:31.012840",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://ucbbank.com/resource-library/cryptocurrency/cryptocurrency-digital-revolution-risks-and-opportunities",
+      "title": "Cryptocurrency: Risks and Opportunities - United Community Bank",
+      "content": "At United Community Bank, our goal is to empower you with knowledge to help you navigate the complex world of finance, and this includes understanding cryptocurrency. We recognize its growing popularity and the curiosity it sparks, and this article outlines key considerations involved to provide clarity.\nPlease Note: We are not recommending buying or using cryptocurrency, nor endorsing any of the vendors or companies referenced as examples. Any decision to proceed should only be made after thorough personal research and consideration of the risks involved.\nCryptocurrency: A Digital Revolution with Risks and Opportunities\nCryptocurrency has emerged as a revolutionary financial innovation, offering an alternative to traditional government-issued currency. While digital currencies like Bitcoin, Ethereum, and others have gained mainstream attention, they come with both risks and advantages that investors and users should carefully consider.\nWhat is Cryptocurrency?\nCryptocurrency is a form of digital currency that uses cryptography for security and operates on a decentralized system called the blockchain. Unlike traditional money, which is issued and regulated by governments, cryptocurrencies are maintained through distributed networks of computers. The most well-known cryptocurrency, Bitcoin, was introduced in 2009 as a peer-to-peer payment system independent of banks and financial institutions. Since then, thousands of cryptocurrencies have been developed, each with unique features and use cases.\nTransactions involving cryptocurrency are recorded on a public ledger, making them transparent and difficult to alter. This decentralized approach reduces the need for intermediaries allowing for faster and potentially cheaper transactions. However, this same feature also brings challenges that make cryptocurrency a risky investment and financial tool.\nKey Risks of Cryptocurrency\n1. Market Volatility\nCryptocurrency prices are notoriously unstable, often experiencing dramatic fluctuations within hours. For example, Bitcoin\u2019s price has seen extreme highs and lows, with gains of thousands of dollars followed by sharp declines. Unlike traditional assets, cryptocurrencies are largely driven by speculation, media hype, and investor sentiment, making them highly unpredictable.\n2. Regulatory Uncertainty\nGovernments and financial regulators worldwide are still developing policies on how to manage cryptocurrencies. Some countries have embraced digital currencies, while others have imposed restrictions or outright bans. Sudden regulatory changes can impact the value of cryptocurrencies or even limit their use in certain regions. Investors must stay informed about evolving regulations that could affect their holdings.\n3. Security and Fraud Risks\nDespite blockchain\u2019s secure nature, cryptocurrency exchanges and wallets remain prime targets for hackers. Billions of dollars in digital assets have been stolen through cyberattacks, phishing scams, and fraud. Since transactions are often irreversible, victims of theft or fraud have little recourse for recovering lost funds. Unlike traditional banks, which offer protections like FDIC insurance, cryptocurrency users are responsible for securing their own assets.\n4. Tax Considerations\nCryptocurrency taxation is complex and varies by country. In many places, including in the United States, cryptocurrencies are classified as digital assets and treated as property rather than currency, which means transactions may trigger capital gain taxes. However, tax laws are still evolving, and some investors and users may unknowingly fail to report taxable events, leading to potential penalties.\n5. Lack of Consumer Protection\nTraditional financial systems provide safeguards for consumers, such as fraud protection and dispute resolution. With cryptocurrency, once a transaction is completed, it cannot be reversed. If a user sends funds to the wrong address or falls victim to a scam, there is no central authority to intervene. This lack of oversight makes cryptocurrency attractive to criminals engaging in illicit activities, adding to concerns about its widespread adoption.\n6. Environmental Concerns\nSome cryptocurrencies, particularly Bitcoin, require significant computing power to maintain their networks. Mining operations, which validate transactions and create new coins, consume vast amounts of energy. Critics argue that this contributes to environmental damage, prompting calls for more energy-efficient blockchain technologies.\nWhile it\u2019s important to highlight the risks, cryptocurrency also offers several key benefits that have contributed to its growing popularity.\nKey Benefits of Cryptocurrency\n1. Decentralization\nOne of the biggest advantages of cryptocurrency is decentralization. Unlike traditional currencies that are controlled by governments and central banks, cryptocurrencies operate on decentralized networks, giving individuals greater control over their financial transactions. This is especially beneficial in countries with unstable economies or restrictive banking systems.\n2. Lower Transaction Costs and Faster Transfers\nCryptocurrency transactions, particularly for international transfers, can be faster and cheaper than traditional payment transactions methods. Payment processors often charge high fees and take several days to process transactions, whereas cryptocurrencies can facilitate near-instant payments with lower costs.\n3. Increased Security and Transparency\nBlockchain technology, which underpins cryptocurrencies, offers a high level of security and transparency. Transactions are recorded on a public ledger, making fraud and unauthorized changes extremely difficult. This can reduce the risk of corruption and financial manipulation.\n4. Potential for High Returns\nMany early investors in cryptocurrencies have seen significant returns, as digital assets like Bitcoin and Ethereum have dramatically increased in value over the years. While this comes with high volatility, some investors view cryptocurrency as a new asset class with long-term growth potential.\n5. Accessibility and Inclusion\nCryptocurrency provides financial services to people who may not have access to traditional banking. With just an internet connection, individuals can send, receive, and store digital assets, opening financial opportunities for unbanked populations around the world.\nConclusion\nCryptocurrency represents a transformative shift in the financial world, offering both opportunities and challenges. While digital currencies provide decentralization, transparency, and financial inclusion, they also pose risks such as volatility, security threats, and regulatory uncertainty. Investors and users should approach cryptocurrency with caution, conduct thorough research, and take necessary precautions to protect their assets.",
+      "domain": "ucbbank.com",
+      "retrieved_at": "2025-12-16 10:11:33.689583",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.ciro.ca/office-investor/understanding-risk/learn-about-risk-crypto-assets",
+      "title": "Learn about the Risk of Crypto Assets - CIRO",
+      "content": "Crypto assets are very risky. Changes in the crypto asset space are constant, and prices may change dramatically with little warning. If you chose to buy, sell, or speculate in crypto, be aware you could lose some or all of your investment.\n\nThere are many risks with crypto assets including:\n\nSome crypto asset exchanges and platforms are unregulated [...] You should also be aware of and not use platforms banned by Canadian securities regulators.\n\nSome crypto trading platforms claim to be registered businesses, but this isn\u2019t the same as being registered with a securities regulator.\n\nCrypto assets are volatile and high-risk investments\n\nCrypto assets are risky investments because their value may rise and fall suddenly and significantly. These changes in value are hard to predict.\n\nYou may be a victim of hacking, fraud and scams [...] Unregulated crypto asset exchanges and trading platforms present significant risks to investors because key investor protections may be missing, including secure handling of client funds, safekeeping of assets, protection of personal information and measures against market manipulations or other harmful practices.\n\nCanadians considering buying or selling crypto assets should use platforms registered with Canadian securities regulators, which includes certain CIRO Members.",
+      "domain": "ciro.ca",
+      "retrieved_at": "2025-12-16 10:11:34.402375",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.schwab.com/learn/story/cryptocurrencies-should-you-invest-them",
+      "title": "Is Bitcoin a Good Investment? Or Other Crypto? - Charles Schwab",
+      "content": "We\u2019re sorry, but we were unable to authorize your request. Please call us at 800-433-9196 and provide reference number SWAF-18.e7cfb75.1765860093.5c670c3. We apologize for any inconvenience.\n0915-82LR",
+      "domain": "schwab.com",
+      "retrieved_at": "2025-12-16 10:11:36.712030",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+      "title": "Bitcoin Risks and Opportunities | City National Bank",
+      "content": "-\nPersonal Banking -\nInsights\nBitcoin Risks and Opportunities\nWhile millions of Americans suffered financially during 2020, others saved money as they worked from home and skipped travel and leisure activities that were suspended during the coronavirus lockdowns.\nThe pandemic also impacted investors in new ways. For instance, low interest rates and high equity prices inspired a shift from traditional stocks and bonds to riskier investments like cryptocurrencies. These are digital forms of money, such as Bitcoin, Ethereum and Litecoin, that allow for direct, private transactions online without bank or government participation.\nDemand for Bitcoin, the most popular cryptocurrency, has soared in the past year. Its valuation hit $56,350 on April 18, 2021 - nearly eight times its $7,270 value on April 18, 2020. New buyers, including institutional investors, fueled a Bitcoin rally in the final months of 2020.\nBitcoin undergoes a \u201chalving\" every few years where supply is reduced. Coupled with demand, this may drive the price higher.\nCryptocurrency clearly appeals to many as a speculative investment. But, as with any such opportunity, it comes with multiple risks.\nUnpredictability\nWhile it may sound enticing, it is important to understand that Bitcoin, like a fine wine or a Monet, has no standardized value, said Paul Single, managing director and senior portfolio manager at City National Rochdale, the investment advisory organization to City National Bank. \"The price is only as good as what the next person is willing to pay, which presents an enormous economic risk,\" he said.\nBitcoin's price recently fell nearly 11 percent over 24 hours, just days after hitting a record high. But while short-term volatility is clearly one risk, there are also others.\nSeveral potential drawbacks of Bitcoin include include:\n- Owners can lose access to any cryptocurrency if they lose their account passwords.\n- Regulators and central banks may someday establish their own digital money, which could replace current offerings.\n- Each sale can result in a capital gain or loss for U.S. taxpayers. Bitcoin comes with high transaction costs, and the transactions can take several minutes to complete.\n- A large amount of Bitcoin and Ethereum mining is based in China and the Chinese government has shut mining and transactions down. Many countries have questioned the environmental impact of mining as well as its potential to destabilize local currency. China took the most aggressive step in this regard.\n\"People need to think about cryptocurrency like the invention of electricity. We are very much at the Ben-Franklin-tying-a-key-to-a-kite phase of crypto,\" said Bryan Gour, City National Bank senior vice president for cyber innovation. \"In 20 years, people will probably look back at how we're managing crypto and laugh at us.\"\nLosing Access\nCryptocurrency owners value the idea of a decentralized security that can be traded for value without an intermediary bank to validate the transaction, Gour noted. \u201cIt's really like the concept of people who want to store their cash under a mattress\" rather than entrusting it to anyone else, he said.\nAnd while the blockchain technology underlying cryptocurrency makes the transactions transparent and verifiable, the options for storing and gaining access to cryptocurrency pose challenges and possible pitfalls, Single noted.\nFor example, one of the biggest risks is the possibility of losing access to one's own money. Some investors have found themselves unable to touch their multi-million-dollar bitcoin fortunes because they misplaced or have forgotten the digital keys to their accounts \u2014 or because a colleague reformatted a computer that held those codes \u2014 as the New York Times reported this year.\n\"If I put money in the bank, it doesn't matter if I lose my password or forget my user name,\" City National's Gour explained, noting that bank customers can always reset passwords and get access to their money as long as they can prove their identity.\nWith cryptocurrency, on the other hand, investors must remember or keep on hand lengthy, irretrievable password phrases while safeguarding them from thieves. The coins may be secure on the blockchain \u2014 the digital network enabling cryptocurrency transactions \u2014 but the owner needs the key to access them.\n\"The nature of not having that middleman to broker your asset means that it's up to you to secure and to manage access to the cryptocurrency,\" Gour said. \"Putting it on a sticky note or in an email can be problematic, so it makes sense to choose a secure spot like a bank safety deposit box.\"\nSecurity Breaches\nThe password issue underpins another challenge: leaving cryptocurrency to heirs.\nThe fortune may go into a will or trust, but providing the digital keys to a trustee would be akin to supplying your bank account sign-in information and mobile phone number to validate the login, which poses risks as well.\n\u201cThose are questions that no one has found a good answer to yet,\" Gour said.\nThe decision on where to store the digital coins themselves isn't simple either. One option is a hardware wallet, similar to a USB drive, where investors can safely store their keys offline. Cryptocurrency owners using these hardware wallets will need to keep track of and preserve them as well.\n\"It's pretty easy to lose a USB drive. They're tiny, they're small, they can be misplaced, they can be mishandled,\" Gour said. \u201cThey can go bad, so if that's your only access to it, it's highly recommended that you have multiple.\"\nAccess and security issues can create worry for cryptocurrency investors.\n\u201cI worry that I'll lose my keywords that I have stored in a secure place,\" Gour said. \"There are multiple layers of secure access to my funds that I have through the banking system. With cryptocurrency, I don't have any of that.\"\nCryptocurrency owners often keep their digital money on the exchange where they purchased it, letting the platform manage, track and provide access.\n\u201cIn the past that has been proven many, many times to be a good way to lose your money,\" Gour said, citing the infamous Mt. Gox bitcoin exchange raid in 2014 that reportedly resulted in the loss of $460 million in cryptocurrency. \"People have spent many, many years trying to get their money back.\"\nAnd there have been other large thefts: For example, hackers reportedly stole almost $517 million in cryptocurrency that was stored on Japanese bitcoin exchange Coincheck in 2018.\nNo insurance safeguards investors against losses incurred through hacks or failures on cryptocurrency exchanges that is similar to the protection afforded by FDIC and SIPC coverage for funds held at banks and traditional brokerages, respectively.\nExpensive and Complex\nIn recent years however, U.S. policymakers have implemented new regulations for cryptocurrency exchanges to make sure people are properly enrolled and their transactions are tracked and audited for tax purposes.\n\"The downside is they charge fairly ridiculous fees to buy and sell cryptocurrency,\" Gour said. \u201cYou have a very limited choice on where you're going to be able to buy and sell cryptocurrencies securely, and you're going to have to pay for that. The fees relative to traditional investment management are very high.\"\nAside from the challenges of safely storing passwords and digital keys, buying and selling cryptocurrency can be complicated technologically, with many people finding it difficult to enable the necessary software and hardware. Gour said he considers the complexity a high barrier to entry.\nThe vast majority of people have no idea how cryptocurrency works, he noted. \"While the coins themselves are being created - or electronically mined - in a very secure way, the risks come from the methods people use to buy and hold it, along with the tax implications of doing it improperly.\"\nSome banks now offer services to help customers secure their cryptocurrency, he said, but they require \"incredibly high management fees to do that.\"\nSome online brokerages also manage cryptocurrency accounts, albeit with high fees and high minimum investments, said Gour.\nUncertain Future\nAmong the other risks, cryptocurrency holders face uncertainty about what the future holds for their investment. It's unclear whether cryptocurrency is here to stay in its current form, Gour said, noting that it's possible no one will be talking about Bitcoin in five or 10 years.\nThe U.S. Federal Reserve, along with other central banks, has been exploring the possibility of establishing its own digital currencies, he noted. There's no telling how such a development could affect the cryptocurrency market, or whether it would supplant it.\nDespite the pitfalls, Bitcoin has become popular and appears to be going mainstream.\nCity National Rochdale's Single noted that Bitcoin futures are available on the Chicago Mercantile Exchange, and the Securities and Exchange Commission reportedly is considering a proposal for a bitcoin exchange-traded fund.\nCity National, however, sees Bitcoin as \"out there\" even for aggressive investors and doesn't conduct any transactions with it, Single said.\nAs he noted in his white paper, the organization doesn't consider Bitcoin a viable investment, as it is subject to wild fluctuations and lacks intrinsic value. If clients show interest in investing in Bitcoin, City National Rochdale advisers don't tell them not to, Single said, but \"we are quick to let them know about the risks.\"\nThis article is for general information and education only. It is provided as a courtesy to the clients and friends of City National Bank (City National). City National does not warrant that it is accurate or complete. Opinions expressed and estimates or projections given are those of the authors or persons quoted as of the date of the article with no obligation to update or notify of inaccuracy or change. This article may not be reproduced, distributed or further published by any person without the written consent of City National. Please cite source when quoting.\nThis article is not to be construed as an offer, or solicitation of an offer, to buy or sell any financial instrument. It should not be relied upon as specific investment advice directed to the reader's specific investment objectives. Any financial instrument discussed in this article may not be suitable for the reader. Each reader must make his or her own investment decision, using an independent advisor if prudent, based on his or her own investment objective and financial situation. Prices and availability of financial instruments are subject to change without notice. Financial instruments denominated in a foreign currency are subject to exchange rate risk in addition to the risk of the investment. City National Bank (and its clients or associated persons) may, at times, engage in transactions in a manner inconsistent with this article and, with respect to particular securities and financial instruments discussed, may buy from or sell to clients or others on a principal basis. Past performance is not necessarily an indication of future results.\nCity National, its managed affiliates and subsidiaries, as a matter of policy, do not give tax, accounting, regulatory or legal advice. Rules in the areas of law, tax, and accounting are subject to change and open to varying interpretations. You should consult with your other advisors on the tax, accounting and legal implications of actions you may take based on any strategies presented, taking into account your own particular circumstances.",
+      "domain": "cnb.com",
+      "retrieved_at": "2025-12-16 10:11:38.577625",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.securities-administrators.ca/investor-tools/crypto-assets/recognizing-crypto-risks/",
+      "title": "Recognizing Crypto Risks - Canadian Securities Administrators",
+      "content": "Crypto is very risky\u2014go in with your eyes open\nNo investment is without risk, but crypto assets are particularly risky. While there\u2019s no guarantee you won\u2019t suffer any losses when speculating, buying, or trading crypto assets, here are some things to consider that may help you avoid loss or fraud.\nCrypto risks\n- Volatility: Prices of crypto assets are often driven by media or social media hype and can rise and fall quickly and dramatically.\n- Liquidity: When trading on a crypto asset trading platform, the CTP may not have enough crypto assets to cover your order. There are also no guarantees the demand for any given crypto asset will continue. CTPs may limit or suspend trading, or there may be limitations or suspension imposed on funding and withdrawals from accounts.\n- Online risk: Crypto asset service providers and intermediaries may exist anywhere in the world. It can be difficult or even impossible to identify or locate the service provider or intermediary and take any action if you have a problem.\n- Technical and cybersecurity: Technology and platforms used for crypto trading are susceptible to cybersecurity threats and hacking, putting your funds and crypto assets at risk.",
+      "domain": "securities-administrators.ca",
+      "retrieved_at": "2025-12-16 10:11:41.615167",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+      "title": "Should I invest in crypto? | Benefits and risks of cryptocurrency",
+      "content": "Should I invest in crypto?\nRisks and benefits of cryptocurrency\nThere are both risks and benefits associated with cryptocurrencies. It\u2019s crucial to educate yourself before deciding to determine if you\u2019re comfortable with the risks. Here are a few considerations to get you started\u2014note, this is not a full list.\nRisks of cryptocurrencies\nVolatility\nThe price of crypto has proven to be extremely volatile, meaning it changes quickly and frequently showing high highs and low lows. While trends can change, there are many factors that contribute to the price fluctuation.\nRegulatory uncertainties\nGovernment regulations around crypto are constantly evolving and may differ based on where you live. Regulations could impact how you use or access your crypto, which can cause volatility and uncertainty. But since crypto is still new, it may take time for policymakers to establish clear, consistent guidelines.\nSecurities and scams\nNot all cryptocurrencies or trading platforms are created equal. Some platforms are more secure than others, and some newer coins could be a higher scam risk than those more established. There is also no protection or insurance for lost or stolen cryptocurrencies, so always research thoroughly before taking action.\nTechnical\nThere are two main ways to store your crypto: privately in a non-custodial wallet on a personal device, like an app on your phone or laptop or in a cold storage wallet, or using a third-party custodian, like Fidelity Digital Assets\u00ae who offers Fidelity Crypto\u00ae.\nWhen storing privately, you are solely responsible for the safety and security of your crypto. If you lose your private key, your hard drive crashes, or a virus corrupts your wallet, you may lose your funds entirely.\nBenefits of cryptocurrencies\nIndependence\nCryptocurrencies were designed to be decentralized without the control of a single government or central bank. A user may have unrestricted access to their coins, but they also have full responsibility for keeping them safe.\nAccessibility\nCrypto can be easily accessible to everyone around the clock, even those without access to traditional banking. Only an internet connection and a crypto wallet are required.\nLower fees and faster time\nCrypto transactions can have lower fees and faster transfer times than some traditional bank transactions. For example, crypto can potentially avoid high fees associated with global wires and be accessible within minutes, which is a big difference from a standard 24-to-48 hour bank wire. However day-to-day bank transactions, like depositing checks or withdrawing cash are quick and have no fees.\nTransparency\nCryptocurrencies operate on blockchain technology that is fully public and immutable, meaning it cannot be changed, manipulated, or deleted, and every transaction can be seen or tracked at any time.\nMainstream support\nAs cryptocurrencies grow in popularity, mainstream financial institutions and businesses have begun to show interest by offering and/or accepting cryptocurrencies. However, unlike traditional finance that has been around for 300+ years, cryptocurrencies are still in their infancy phase and their future remains uncertain.\nHigh return potential\nAlthough cryptocurrencies are highly volatile, they have also yielded high returns in the past depending on when purchased. But it\u2019s important to understand that past performance never guarantees or suggests future results.\nDid you know?\nSmart contracts, like those built on Ethereum, will execute automatically when outlined conditions are met.\nThe bottom line\nNot all coins or platforms are created equal. Crypto is a new, highly volatile asset class, and you need to be comfortable with the risks before taking action. Educate yourself thoroughly before deciding and only invest if you are prepared to lose the entire investment.",
+      "domain": "fidelity.com",
+      "retrieved_at": "2025-12-16 10:11:45.447346",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.sganalytics.com/blog/thinking-of-crypto-investments-watch-out-for-the-ten-common-mistakes/",
+      "title": "Thinking of Crypto Investments; Watch out for the Ten Common ...",
+      "content": "Everyone today wants a piece of the cryptocurrency pie. While cryptocurrency is a lucrative investment, it has its own risks. Many are often overwhelmed by their profits, thus wanting to make more. But this could direct them to make some common cryptocurrency trading errors that could translate into huge losses, thus leading them to not invest again.\nThe Expanding Crypto Ecosystem\nThe rapid price movements of cryptocurrencies such as Bitcoin, Ether, and Ripple are fueling headlines across the globe. These blockchain-powered digital currencies are creating a money revolution with their price volatility.\nThe cryptocurrency landscape is segmented based on the capitalization of many cryptocurrencies. Cryptocurrencies are designed to operate in a decentralized manner. This indicates that while they are an innovative avenue for global value transfers, there is no guarantee for the security of the assets.\nCrypto trading is no longer reserved for the affluent. Investing in cryptocurrencies and digital assets is now easier than before. The introduction of multiple trading platforms has enabled investors to jump right into the investment and trading market.\nRead more: \u201cSpeed, Data\u2026Crypto?\u201d: Fintech Trends to Watch Out for in 2022\nOnline brokers and centralized & decentralized exchanges provide investors the flexibility to buy and sell their digital tokens. As a result, many investors and traders make major investing mistakes due to a lack of proficiency and experience. Here are a few mistakes investors should consider and avoid to not go broke.\n-\nLosing the Keys to the Ledger\nCryptocurrencies are built on blockchain technology. A distributed ledger technology, blockchain provides high levels of security for digital assets without the requirement for a centralized custodian. However, this puts the responsibility of protecting the digital assets on the holders. Storing the cryptographic keys to the digital wallet is an integral part. Digital transactions on the blockchain are created using private keys, which act as a unique identifier to restrict unauthorized access to the wallet.\nUnlike a password or PIN, the user cannot reset or recover the keys. This makes it highly crucial to keep the keys safe and secure, as losing them would mean losing access to all digital assets in that wallet.\n-\nPanic selling\nMany investors invest in Bitcoin or other cryptocurrencies on a particular day and then find the market crashing the next day. This is one of the biggest mistakes when entering the crypto market. As investors, it is vital to have a clear intention of what you want to gain from the investments rather than selling the crypto out of mere FOMO (Fear of Missing Out).\nCryptocurrencies are known for their volatile price history. A small market crash does not signify that the entire investment will be lost in one go. Holding onto the cryptos is a necessary investment tactic traders should adopt while investing their money in Bitcoin and other cryptocurrencies.\n-\nOvertrading and Revenge Trading\nInvestors may be drawn to trade their cryptos multiple times in a day to generate more profit. This can lead to unnecessary losses, causing investors to change their minds. It can also increase tax liabilities. Many investors resort to Revenge Trading after incurring losses from overtrading. Revenge trading is done to make up for the lost profits. Most often, this can lead to more losses. Here are some tricks to avoid falling into this trap:\n- Set a maximum loss limit for a day or week\n- After a losing trade, sit out for a specified time\n- Employ stop-loss arrangement\n- After losing, take a few days off from investing and start afresh.\n-\nTrading without a goal\nIt is vital to understand the motive behind trading in cryptocurrency. Is it because it is in vogue or because you see it as a potential source of investment? While the motive of the purpose can be debated, it is vital to have a goal in mind before entering the crypto trading landscape. A goal-less trading strategy plan will often lead you on the path to tremendous losses.\n-\nKeeping the Crypto Coins in the Exchange Wallet\nAs traders, it is always preferable to store the coins in the exchange wallets instead of moving them to a non-custodial or hardware wallet to save the coins\u2019 costs. However, this is not a good practice. As a beginner, when the investments are in an exchange, there is a high chance that they might get wiped out with just one click. The disadvantage of storing the coins in an exchange wallet is that the user does not entirely have control over their holdings. The exchanges hold the funds, which are often vulnerable to fraud. Hence, it is advisable not to keep crypto coins on exchanges.\nRead more: What Will the Economy Look Like in 2022? 6 Trends to Watch Out For!\n-\nSending the assets to the wrong address\nInvestors should be cautious while transferring their digital assets to another person or wallet. There is no provision to retrieve the sent digital coins if sent to the wrong address. This mistake often occurs when the sender is not attentive while entering the wallet address. Transactions on the blockchain are irreversible. This kind of mistake can be fatal for the investor as well as his investment portfolio. Hence, crypto holders should be cautious while undertaking digital asset transactions.\n-\nNot Diversifying the Crypto Portfolio\nWith tons of cryptocurrencies available in the market, as an investor or trader, it is important to continuously diversify your investments. As a beginner on this crypto journey, it is safe to start with more robust and stable coins. Buying bitcoin as a beginner is the most secure investment option; all cryptos are strongly correlated with bitcoin.\nCryptocurrencies fluctuate constantly. Their prices go up or down depending on the market trends. The crypto investment market follows a pump and dump scheme to attract greedy investors. As a beginner, it is important to be prepared for the market\u2019s volatility and aware of such frauds.\n-\nOver diversification\nDiversification is vital for building a resilient cryptocurrency portfolio. Given the high volatility levels in the space, the sheer options available, and the predominant appetite for outsized gains, cryptocurrency investors & traders often end up over-diversifying their investment profiles, which can have enormous consequences.\nOver-diversification signifies investors are holding many heavily underperforming assets, leading to considerable losses. It is vital to diversify cryptocurrencies where the fundamental value is clear. It is equally important to understand the diverse types of assets and how they perform in different market conditions.\n-\nInvesting for a Short-term Horizon\nCryptocurrency prices keep on fluctuating. In fact, the prices keep on moving up and down all the time. This makes predicting their values extremely challenging. Traders and investors must also be prepared to deal with price fluctuations and student market dips. Hence, it is advisable to set a long-term goal for the investment based on the price trends and market situations.\n-\nNot establishing a stop-loss arrangement\nA stop-loss is an order type that allows investors to sell a security only when the crypto market reaches a specific price. Investors use this to prevent losing more money than they are willing to, ensuring they at least recover their initial investment.\nIn many cases, investors often experience huge losses due to an incorrect setup of their stop losses before asset prices drop. However, it is equally crucial to recognize that stop-loss orders aren\u2019t perfect and can sometimes fail to trigger sales.\nHowever, the importance of setting up a stop-loss arrangement to protect your investments cannot be understated, as it helps mitigate the losses during the downturn of the market.\nRead more: $1.4T Vanishes in Market Cap as Cryptocurrency Prices Plunge. What Gave?\nCryptocurrency markets are volatile enough without these simple and easily avoidable mistakes.\nWrapping up\nCrypto investing and trading is a risky affair with no guarantees of success. Yet the crypto investing market is steadily advancing towards gaining popularity. For traders and investors to get used to it, it is important to be aware of the market and its dynamics. Avoiding mistakes while buying cryptocurrencies will help in getting the best out of the investments.\nCryptocurrencies overlap with key areas of the monetary and financial systems. Owing to their rapid growth, complexity, high volatility, and potential for facilitating illicit activities, policymakers across the globe are concerned about their inclusion in the existing system and initiating policies to revise the existing systems to fit them.\nLike any other form of trading, the cryptocurrency market demands patience, caution, and understanding. Blockchain places accountability on the investor, so it is critical to take the time to figure out the distinct aspects of the market before putting your capital at risk.\nWith offices in New York, San Francisco, Austin, Seattle, Toronto, London, Zurich, Pune, and Hyderabad, SG Analytics, a pioneer in Research and Analytics, offers tailor-made services to enterprises worldwide.\nA leader in Investment Research services, SG Analytics helps leverage custom research support across a broad range of asset classes to enhance their investment decisions. Contact us today if you are looking to navigate the financial markets, enhance your portfolios, and make strategic decisions to achieve your financial goals.",
+      "domain": "sganalytics.com",
+      "retrieved_at": "2025-12-16 10:11:48.840921",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+      "title": "Crypto Assets - Risks | FINRA.org",
+      "content": "Crypto Assets - Risks\nAll investments carry risks, and crypto assets are no exception. Be mindful of the following realities of investing in the evolving world of crypto assets.\n- Crypto assets are risky and often extremely volatile. Crypto assets have experienced higher levels of volatility relative to more traditional investment assets, meaning that price swings\u2014and any investment value\u2014may go up and down dramatically and unpredictably, and the risk of losing all of your investment is significant. Crypto assets are also less liquid than more traditional financial instruments like stocks and bonds, which can exacerbate price volatility and make it more difficult to sell.\nRegistration of crypto assets\u2014and crypto asset entities\u2014is limited. Under federal securities laws, securities and the people or entities that offer or sell them typically must be registered. Registration of a securities offering or entity provides important investor protection through rules related to, among other things: disclosure of information about the company, offering and securities being offered; custody of assets; conflicts of interest; standards of conduct; and minimum capital requirements. Whether a particular crypto asset or crypto asset activity is a security depends upon whether it meets the definition of a security under federal securities laws. Unregistered crypto assets, crypto asset broker-dealers and crypto asset exchanges might not provide important investor protections.\nTo find out if a broker-dealer is registered, search BrokerCheck. To find out if an asset is registered as a security, check with the SEC.\n- SIPA coverage might not apply. Crypto assets that aren\u2019t securities as defined in the Securities Investor Protection Act (SIPA) aren\u2019t protected under SIPA. Even some crypto assets that are securities under other federal securities laws or that are offered and sold as securities under those laws might not be securities under SIPA\u2014in which case, protections afforded to securities customers through SIPA might not apply, even if those crypto assets are held by a broker-dealer that\u2019s a member of the Securities Investor Protection Corporation (SIPC). In particular, an \u201cinvestment contract\u201d that\u2019s a \u201csecurity\u201d under other federal securities laws isn\u2019t a \u201csecurity\u201d under SIPA unless it\u2019s also registered with the SEC under the Securities Act of 1933. Learn more from SIPC about the protections afforded to customers under SIPA and find answers to questions about SIPC customer protection.\n- You might interact with unregistered entities. When buying, selling or storing crypto assets through an affiliate of a broker-dealer or another third party with which the broker-dealer has established an arrangement, investors might interact with an entity that\u2019s subject to more limited regulatory oversight or where regulatory clarity is lacking. In these situations, be aware that the entity might not operate under the same investor protection rules and regulations as the broker-dealer.\n- Scams and fraud abound. Bad actors continue to exploit investor demand and public interest in crypto assets to perpetrate fraud, including through Ponzi schemes, pyramid schemes, pump and dump schemes, the sale of fake coins, phishing scams, romance scams, \u201cpig butchering\u201d scams, and other forms of market abuse and fraudulent tactics. The pseudonymous nature of crypto assets is another reason behind bad actors\u2019 focus on this space. Whatever the scam, once assets are sent, they\u2019re generally gone for good.\n- Theft happens. Theft of crypto assets is a significant risk, and some crypto asset service providers might be better at protecting against cybersecurity risks and theft than others. There are many touchpoints where something can go wrong (such as with crypto wallet providers), and many of these entities might be operating internationally and without any regulatory oversight. As in the case of scams, recovery of stolen crypto assets is rare.\n- Spoofing is real. Bad actors have tried to lure unsuspecting investors into storing their public and private keys with fake crypto asset service providers. Fraudsters might befriend investors and entice them to move their crypto asset wallets to a different (fraudulent) crypto asset service provider, or they might fraudulently pose as tech support staff for legitimate crypto asset service providers. It\u2019s important to carefully vet an institution before using its service.\n- Tokens might not be received and might have little utility or worth. For crypto assets that are contingent on certain triggering events\u2014such as ICOs contingent on the development of a new enterprise and a related future public sale of tokens\u2014the triggers might not occur, and you might not receive the associated tokens. Even if you do receive tokens, they might be worth nothing or might be redeemable only for goods or services by the token issuer. Furthermore, there might be no ability to trade or exchange tokens.\nRemember: Never invest more than you can afford to lose. Investing always involves some degree of risk. Two key investing principles\u2014asset allocation and diversification\u2014are critical to managing investment risk.\nReport potential crypto asset fraud to:\n- FINRA using the Regulatory Tip Form;\n- the U.S. Securities and Exchange Commission\u2019s tips, complaints and referrals system (TCRs) or by phone at (202) 551-4790;\n- the Federal Bureau of Investigation\u2019s tip line at 800-CALLFBI (225-5324) or a local FBI office;\n- the Internet Crime Compliant Center (IC3) (particularly if a firm is trying to recall a wire transfer to a destination outside the U.S.); and\n- your local state securities regulators.",
+      "domain": "finra.org",
+      "retrieved_at": "2025-12-16 10:11:50.368598",
+      "query_used": "Cryptocurrency investment risks"
+    },
+    {
+      "url": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+      "title": "10 Critical Mistakes New Crypto Investors Make (And How to Avoid ...",
+      "content": "Perhaps the most dangerous mistake is investing money you actually need for living expenses, emergency funds, or near-term financial goals. Cryptocurrency is a highly volatile asset class that can experience dramatic price swings.\n\nNever invest money you might need to access within the next few years. The market might be down significantly when you need to sell, forcing you to realize losses at the worst possible time. [...] Read whitepapers, follow official project channels, and understand the technology stack. This knowledge helps you distinguish between legitimate projects and those with little substance.\n\n## 2. Putting All Your Eggs in One Basket\n\nConcentration risk is particularly dangerous in the volatile crypto market. Many new investors commit too much capital to a single cryptocurrency, hoping for massive returns. [...] Don\u2019t forget to diversify beyond crypto too. Financial experts typically recommend that crypto should represent only a portion of your overall investment portfolio based on your risk tolerance.\n\n## 3. Falling for FOMO and Chasing Pumps\n\nFear of missing out drives many poor investment decisions. When you see a cryptocurrency skyrocketing in price, the temptation to jump in can be overwhelming.",
+      "domain": "portotheme.com",
+      "retrieved_at": "2025-12-16 10:11:52.474804",
+      "query_used": "Cryptocurrency investment risks"
+    }
+  ],
+  "knowledge_graph": {
+    "entities": [
+      "Cryptocurrency",
+      "Blockchain",
+      "Volatility",
+      "Regulatory Uncertainties",
+      "Securities and Scams",
+      "Technical Risks",
+      "Liquidity",
+      "Online Risk",
+      "Cybersecurity",
+      "Investment",
+      "Risk",
+      "Investor",
+      "Crypto Assets",
+      "Blockchain Technology",
+      "Digital Wallet",
+      "Cryptographic Keys",
+      "FOMO",
+      "Pumps",
+      "Concentration Risk",
+      "Diversification",
+      "Financial Portfolio",
+      "Risk Tolerance",
+      "Central Banks",
+      "Regulators",
+      "Government",
+      "Cryptocurrency Exchanges",
+      "Trading Platforms",
+      "Investment Protection",
+      "Registration",
+      "Disclosure",
+      "Custody",
+      "Conflicts of Interest",
+      "Standards of Conduct",
+      "Minimum Capital Requirements",
+      "SIPA Coverage",
+      "Securities Investor Protection Act",
+      "Broker-Dealer",
+      "SEC",
+      "Federal Securities Laws",
+      "Investment Value",
+      "Price Swings",
+      "Price Volatility",
+      "Investor Protections",
+      "Crypto Asset Entities",
+      "Crypto Asset Broker-Dealers",
+      "Crypto Asset Exchanges",
+      "BrokerCheck",
+      "SEC Check"
+    ],
+    "relationships": [
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Volatility",
+        "citation": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Regulatory Uncertainties",
+        "citation": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Securities and Scams",
+        "citation": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Technical Risks",
+        "citation": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Liquidity",
+        "citation": "https://www.securities-administrators.ca/investor-tools/crypto-assets/recognizing-crypto-risks/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Online Risk",
+        "citation": "https://www.securities-administrators.ca/investor-tools/crypto-assets/recognizing-crypto-risks/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency",
+        "relation": "increases_risk_of",
+        "target": "Cybersecurity",
+        "citation": "https://www.securities-administrators.ca/investor-tools/crypto-assets/recognizing-crypto-risks/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Investor",
+        "relation": "exposes_to",
+        "target": "Risk",
+        "citation": "https://www.ciro.ca/office-investor/understanding-risk/learn-about-risk-crypto-assets",
+        "credibility": 1.0
+      },
+      {
+        "source": "Investor",
+        "relation": "exposes_to",
+        "target": "Investment",
+        "citation": "https://www.ciro.ca/office-investor/understanding-risk/learn-about-risk-crypto-assets",
+        "credibility": 1.0
+      },
+      {
+        "source": "Blockchain Technology",
+        "relation": "increases_risk_of",
+        "target": "Technical Risks",
+        "citation": "https://www.sganalytics.com/blog/thinking-of-crypto-investments-watch-out-for-the-ten-common-mistakes/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Digital Wallet",
+        "relation": "increases_risk_of",
+        "target": "Technical Risks",
+        "citation": "https://www.sganalytics.com/blog/thinking-of-crypto-investments-watch-out-for-the-ten-common-mistakes/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptographic Keys",
+        "relation": "increases_risk_of",
+        "target": "Technical Risks",
+        "citation": "https://www.sganalytics.com/blog/thinking-of-crypto-investments-watch-out-for-the-ten-common-mistakes/",
+        "credibility": 1.0
+      },
+      {
+        "source": "FOMO",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Pumps",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Concentration Risk",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Diversification",
+        "relation": "reduces_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Financial Portfolio",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Risk Tolerance",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "credibility": 1.0
+      },
+      {
+        "source": "Central Banks",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+        "credibility": 1.0
+      },
+      {
+        "source": "Regulators",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+        "credibility": 1.0
+      },
+      {
+        "source": "Government",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+        "credibility": 1.0
+      },
+      {
+        "source": "Cryptocurrency Exchanges",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Trading Platforms",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Investment Protection",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Registration",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Disclosure",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Custody",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Conflicts of Interest",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Standards of Conduct",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Minimum Capital Requirements",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "SIPA Coverage",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Broker-Dealer",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "SEC",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Federal Securities Laws",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Investment Value",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Price Swings",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Liquidity",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Price Volatility",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Investor Protections",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Crypto Asset Entities",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Crypto Asset Broker-Dealers",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "Crypto Asset Exchanges",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "BrokerCheck",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      },
+      {
+        "source": "SEC Check",
+        "relation": "increases_risk_of",
+        "target": "Investment",
+        "citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "credibility": 1.0
+      }
+    ],
+    "conflicts": [
+      {
+        "point_of_contention": "The efficiency of Blockchain Technology",
+        "side_a": "Claims efficiency is O(n) based on Source 1",
+        "side_a_citation": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+        "side_b": "Claims efficiency is O(n^2) in worst-case scenarios based on Source 9",
+        "side_b_citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      },
+      {
+        "point_of_contention": "The security of Digital Wallets",
+        "side_a": "Claims security is high based on Source 3",
+        "side_a_citation": "https://www.ciro.ca/office-investor/understanding-risk/learn-about-risk-crypto-assets",
+        "side_b": "Claims security is low based on Source 8",
+        "side_b_citation": "https://www.sganalytics.com/blog/thinking-of-crypto-investments-watch-out-for-the-ten-common-mistakes/",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      },
+      {
+        "point_of_contention": "The risk of FOMO",
+        "side_a": "Claims FOMO is a major risk based on Source 4",
+        "side_a_citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "side_b": "Claims FOMO is not a major risk based on Source 5",
+        "side_b_citation": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      },
+      {
+        "point_of_contention": "The importance of Diversification",
+        "side_a": "Claims diversification is crucial based on Source 6",
+        "side_a_citation": "https://www.portotheme.com/10-critical-mistakes-new-crypto-investors-make-and-how-to-avoid-them/",
+        "side_b": "Claims diversification is not crucial based on Source 7",
+        "side_b_citation": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      },
+      {
+        "point_of_contention": "The role of Central Banks",
+        "side_a": "Claims Central Banks play a major role based on Source 8",
+        "side_a_citation": "https://www.cnb.com/personal-banking/insights/bitcoin-risks-opportunity.html",
+        "side_b": "Claims Central Banks do not play a major role based on Source 9",
+        "side_b_citation": "https://www.finra.org/investors/investing/investment-products/crypto-assets/risks",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      },
+      {
+        "point_of_contention": "The impact of Regulatory Uncertainties",
+        "side_a": "Claims Regulatory Uncertainties have a major impact based on Source 10",
+        "side_a_citation": "https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto",
+        "side_b": "Claims Regulatory Uncertainties do not have a major impact based on Source 11",
+        "side_b_citation": "https://www.securities-administrators.ca/investor-tools/crypto-assets/recognizing-crypto-risks/",
+        "side_a_credibility": 1.0,
+        "side_b_credibility": 1.0
+      }
+    ]
+  },
+  "adversarial_queries": [
+    "Cryptocurrency investment risks mitigated by institutional investment strategies",
+    "Blockchain technology adoption in traditional finance reduces volatility and regulatory uncertainties",
+    "Investor education and awareness programs decrease exposure to securities and scams in cryptocurrency market"
+  ],
+  "executed_queries": "{'Cryptocurrency investment risks'}",
+  "synthesis_report": null,
+  "max_iterations": 3,
+  "current_phase": "mapper",
+  "status_message": "Mapper phase failed: Relationship source 'Investors' not in entities list"
+}
