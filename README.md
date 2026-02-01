@@ -1,4 +1,4 @@
-# 🧠 Adversarial Knowledge Cartographer
+# Adversarial Knowledge Cartographer
 
 > **A production-grade multi-agent AI research system that transforms controversial topics into structured knowledge graphs with conflict detection and credibility scoring.**
 
@@ -11,33 +11,33 @@
 
 ---
 
-## 🎯 What Makes This Different?
+## What Makes This Different?
 
 Unlike traditional research agents that simply summarize information, this system:
 
-✅ **Actively seeks contradictions** using adversarial prompting  
-✅ **Models conflicts as first-class entities** in knowledge graphs  
-✅ **Scores source credibility** with transparent, configurable algorithms  
-✅ **Runs on 100% free-tier APIs** (Groq + Tavily = $0/month)  
-✅ **Tested with 32 property-based tests** for production reliability  
-✅ **Visualizes argument topologies** with interactive 2D/3D graphs  
+- **Actively seeks contradictions** using adversarial prompting  
+- **Models conflicts as first-class entities** in knowledge graphs  
+- **Scores source credibility** with transparent, configurable algorithms  
+- **Runs on 100% free-tier APIs** (Groq + Tavily = $0/month)  
+- **Tested with 32 property-based tests** for production reliability  
+- **Visualizes argument topologies** with interactive 2D/3D graphs  
 
 **Perfect for:** Controversial topics, fact-checking, research synthesis, argument mapping, and understanding complex debates.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 graph TB
-    Start([User Query]) --> Scout[🔍 Scout Agent<br/>Web Search]
-    Scout --> |Sources| Mapper[🗺️ Mapper Agent<br/>Entity Extraction]
-    Mapper --> |Knowledge Graph| Adversary[⚔️ Adversary Agent<br/>Find Weaknesses]
+    Start([User Query]) --> Scout[Scout Agent<br/>Web Search]
+    Scout --> |Sources| Mapper[Mapper Agent<br/>Entity Extraction]
+    Mapper --> |Knowledge Graph| Adversary[Adversary Agent<br/>Find Weaknesses]
     Adversary --> |Challenges| Decision{Iteration < Max?}
     Decision --> |Yes| Scout
-    Decision --> |No| Judge[⚖️ Judge Agent<br/>Credibility Scoring]
-    Judge --> |Weighted Graph| Synthesis[📊 Synthesis Agent<br/>Report Generation]
-    Synthesis --> Output([📄 Report + Graph])
+    Decision --> |No| Judge[Judge Agent<br/>Credibility Scoring]
+    Judge --> |Weighted Graph| Synthesis[Synthesis Agent<br/>Report Generation]
+    Synthesis --> Output([Report + Graph])
     
     style Start fill:#e1f5ff
     style Output fill:#e1f5ff
@@ -53,47 +53,47 @@ graph TB
 
 | Agent | Purpose | Key Outputs |
 |-------|---------|-------------|
-| 🔍 **Scout** | Gathers diverse sources from web search | URLs, titles, snippets |
-| 🗺️ **Mapper** | Extracts entities, relationships, conflicts | Knowledge graph structure |
-| ⚔️ **Adversary** | Challenges findings, identifies gaps | Counter-queries, weaknesses |
-| ⚖️ **Judge** | Evaluates source credibility | Credibility scores (0-1) |
-| 📊 **Synthesis** | Generates final report | Markdown report + JSON graph |
+| **Scout** | Gathers diverse sources from web search | URLs, titles, snippets |
+| **Mapper** | Extracts entities, relationships, conflicts | Knowledge graph structure |
+| **Adversary** | Challenges findings, identifies gaps | Counter-queries, weaknesses |
+| **Judge** | Evaluates source credibility | Credibility scores (0-1) |
+| **Synthesis** | Generates final report | Markdown report + JSON graph |
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔬 Production-Grade Testing
+### Production-Grade Testing
 - **32 property-based tests** using Hypothesis
 - **90%+ code coverage** across all agents
 - Tests for invariants, idempotence, and edge cases
 - Automatic shrinking to minimal failing examples
 
-### 🎯 Intelligent Credibility Scoring
+### Intelligent Credibility Scoring
 - **Domain authority**: .edu (0.9), .gov (0.9), news outlets (0.8)
 - **Citation indicators**: References, footnotes, DOIs
 - **Recency weighting**: Configurable decay for time-sensitive topics
 - **Transparent algorithm**: No black-box ML models
 
-### ⚔️ Adversarial Conflict Detection
+### Adversarial Conflict Detection
 - Identifies direct contradictions between sources
 - Detects quantitative disagreements
 - Flags methodological conflicts
 - Presents "battleground topics" with both sides
 
-### 📊 Interactive Visualization
+### Interactive Visualization
 - **2D graph** with React Flow (zoom, pan, search)
 - **3D graph** with Three.js (force-directed layout)
 - **Analytics dashboard** with metrics and statistics
 - **Export options**: PNG, PDF, JSON
 
-### 🐳 Docker-Ready Deployment
+### Docker-Ready Deployment
 - Multi-stage builds for optimized images
 - Docker Compose with backend, frontend, Redis
 - Health checks and auto-restart
 - Production-ready nginx configuration
 
-### 💰 Free-Tier Architecture
+### Free-Tier Architecture
 - **Groq**: 14,400 requests/day (Llama 3.1 70B)
 - **Tavily**: 1,000 searches/month
 - **Total cost**: $0/month for demos and portfolio
@@ -101,7 +101,7 @@ graph TB
 
 ---
 
-## 🚀 Quick Start (60 seconds)
+## Quick Start (60 seconds)
 
 ### Option 1: Docker (Recommended)
 
@@ -151,7 +151,7 @@ TAVILY_API_KEY=your_tavily_key_here
 
 ---
 
-## 📖 Example: Research in Action
+## Example: Research in Action
 
 **Query:** "Is investing in silver ETF guaranteed profit?"
 
@@ -188,7 +188,7 @@ Historical 100% returns followed by 40% corrections.
 
 ---
 
-## 🧪 Testing & Quality
+## Testing & Quality
 
 ### Property-Based Testing (32 Tests)
 
@@ -210,13 +210,13 @@ def test_no_self_loops(entities):
 ```
 
 **Test Coverage:**
-- ✅ Data Models (8 tests): Credibility bounds, entity validation
-- ✅ Scout Agent (6 tests): Source diversity, URL validation
-- ✅ Mapper Agent (6 tests): Entity uniqueness, relationship integrity
-- ✅ Adversary Agent (4 tests): Challenge generation, bias detection
-- ✅ Judge Agent (4 tests): Credibility comparison, conflict detection
-- ✅ Synthesis Agent (2 tests): Report completeness
-- ✅ Workflow (2 tests): State transitions, iteration limits
+- Data Models (8 tests): Credibility bounds, entity validation
+- Scout Agent (6 tests): Source diversity, URL validation
+- Mapper Agent (6 tests): Entity uniqueness, relationship integrity
+- Adversary Agent (4 tests): Challenge generation, bias detection
+- Judge Agent (4 tests): Credibility comparison, conflict detection
+- Synthesis Agent (2 tests): Report completeness
+- Workflow (2 tests): State transitions, iteration limits
 
 ### Run Tests
 
@@ -233,7 +233,7 @@ pytest --hypothesis-profile=ci
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 - **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
 - **[API Reference](api/README.md)** - Complete API documentation
@@ -248,7 +248,7 @@ pytest --hypothesis-profile=ci
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 All configuration via `.env` file:
 
@@ -314,11 +314,11 @@ switch_config.bat OPTIMIZED
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 adversarial-knowledge-cartographer/
-├── agents/                    # 🤖 Multi-agent system
+├── agents/                    # Multi-agent system
 │   ├── scout.py              # Web search & source collection
 │   ├── mapper.py             # Entity/relationship extraction
 │   ├── adversary.py          # Counter-evidence generation
@@ -326,25 +326,25 @@ adversarial-knowledge-cartographer/
 │   ├── synthesis.py          # Report generation
 │   └── workflow.py           # LangGraph orchestration
 │
-├── models/                    # 📊 Pydantic data models
+├── models/                    # Pydantic data models
 │   └── data_models.py        # WorkflowState, KnowledgeGraph, etc.
 │
-├── api/                       # 🌐 FastAPI backend
+├── api/                       # FastAPI backend
 │   ├── app.py                # REST API endpoints
 │   └── README.md             # API documentation
 │
-├── frontend/                  # ⚛️ React visualization
+├── frontend/                  # React visualization
 │   ├── src/
 │   │   ├── components/       # Graph, Analytics, DetailPanel
 │   │   ├── services/         # API client
 │   │   └── utils/            # Graph transformation
 │   └── README.md
 │
-├── tests/                     # 🧪 Test suite (32 property tests)
+├── tests/                     # Test suite (32 property tests)
 │   ├── test_*_properties.py  # Hypothesis property tests
 │   └── test_api_endpoints.py # Integration tests
 │
-├── docs/                      # 📚 Documentation
+├── docs/                      # Documentation
 │   └── adr/                  # Architecture Decision Records
 │       ├── 001-why-langgraph.md
 │       ├── 002-credibility-scoring.md
@@ -352,16 +352,16 @@ adversarial-knowledge-cartographer/
 │       ├── 004-free-tier-architecture.md
 │       └── 005-conflict-detection-strategy.md
 │
-├── utils/                     # 🛠️ Utilities
+├── utils/                     # Utilities
 │   ├── error_handling.py     # Error handling
 │   ├── logging_config.py     # Structured logging
 │   └── llm_factory.py        # LLM provider abstraction
 │
-├── .github/                   # 🔄 CI/CD
+├── .github/                   # CI/CD
 │   └── workflows/
 │       └── ci.yml            # GitHub Actions (pytest, lint, docker)
 │
-├── docker-compose.yml         # 🐳 Multi-container setup
+├── docker-compose.yml         # Multi-container setup
 ├── Dockerfile                 # Backend container
 ├── frontend/Dockerfile        # Frontend container
 ├── requirements.txt           # Python dependencies
@@ -373,7 +373,7 @@ adversarial-knowledge-cartographer/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Development setup
@@ -391,7 +391,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ---
 
-## 📊 Performance
+## Performance
 
 **Expected Timings** (Groq + Tavily, 2 iterations):
 - Scout: ~30s (20 sources)
@@ -409,7 +409,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### "Configuration error: GROQ_API_KEY required"
 1. Copy `.env.example` to `.env`
@@ -441,13 +441,13 @@ docker-compose logs -f frontend
 
 ---
 
-## 📜 License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with world-class open-source tools:
 
@@ -461,7 +461,7 @@ Built with world-class open-source tools:
 
 ---
 
-## 📞 Support & Contact
+## Support & Contact
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/adversarial-knowledge-cartographer/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/adversarial-knowledge-cartographer/discussions)
@@ -470,9 +470,9 @@ Built with world-class open-source tools:
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### ✅ Phase 1: Core System (Complete)
+### Phase 1: Core System (Complete)
 - [x] Multi-agent workflow with LangGraph
 - [x] Credibility scoring algorithm
 - [x] Conflict detection
@@ -480,14 +480,14 @@ Built with world-class open-source tools:
 - [x] Docker deployment
 - [x] Interactive visualization
 
-### 🚧 Phase 2: Production Enhancements (In Progress)
+### Phase 2: Production Enhancements (In Progress)
 - [ ] LangSmith tracing integration
 - [ ] RAGAS evaluation framework
 - [ ] Policy guardrails (PII, bias, toxicity)
 - [ ] Advanced caching with Redis
 - [ ] Monitoring dashboard
 
-### 🔮 Phase 3: Advanced Features (Planned)
+### Phase 3: Advanced Features (Planned)
 - [ ] Multi-language support
 - [ ] Academic paper integration (arXiv, PubMed)
 - [ ] Citation network analysis
@@ -499,19 +499,19 @@ See [PRODUCTION_ENHANCEMENT_ROADMAP.md](PRODUCTION_ENHANCEMENT_ROADMAP.md) for d
 
 ---
 
-## 📈 Project Stats
+## Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/adversarial-knowledge-cartographer?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/adversarial-knowledge-cartographer?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/adversarial-knowledge-cartographer)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/adversarial-knowledge-cartographer)
 
-**Built with ❤️ for the AI engineering community**
+**Built with dedication for the AI engineering community**
 
 ---
 
 <div align="center">
 
-**[⬆ Back to Top](#-adversarial-knowledge-cartographer)**
+**[Back to Top](#adversarial-knowledge-cartographer)**
 
 </div>
